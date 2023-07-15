@@ -15,4 +15,14 @@ print(*original_matrix, sep='\n', end='\n\n')
 print(f"Транспонированная матрица:")
 print(*matrix_transposition(original_matrix), sep='\n')
 
+# trans_matrix2 = []
+# for i in range(len(original_matrix)):
+#     for j in range(len(original_matrix)):
+#         trans_matrix2[i][j] = original_matrix[i][j]
+#
+# print(*matrix_transposition(original_matrix), sep='\n')
 
+# trans_matrix = []
+# for i in range(len(original_matrix)):
+#     trans_matrix.append([original_matrix[2-j][i] for j in range(len(original_matrix[i]))])
+# print(*trans_matrix, sep='\n')
