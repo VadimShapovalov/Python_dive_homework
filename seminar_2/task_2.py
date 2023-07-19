@@ -4,7 +4,6 @@
 def hex_convertor():
     print("Введите целое десятичное число: ")
     num_ten = int(input())
-    # num_ten = 10000
     num_from_hex = hex(num_ten)
     num_hex = ''
     while num_ten > 0:
