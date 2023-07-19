@@ -114,6 +114,5 @@ def withdraw(account, operation):
                 continue
 
 
-# refill()
 cash_machine()
 

@@ -1,9 +1,9 @@
 # Напишите программу, которая принимает две строки вида “a/b” - дробь с числителем и знаменателем.
 # Программа должна возвращать сумму и произведение* дробей.
 # Для проверки своего кода используйте модуль fractions.
+
 import fractions
 import math
-
 def sum_mult_fractions():
     fraction_1 = input("Введите первую дробь в формате 1/2: ")
     fraction_2 = input("Введите вторую дробь в формате 1/2: ")
@@ -22,6 +22,7 @@ def sum_mult_fractions():
     fract_2 = fractions.Fraction(int(numerator_2), int(denominator_2))
     print(f"Сумма дробей полученная путем модуля fructions: {fract_1 + fract_2}")
     print(f"Произведение дробей полученное путем модуля fructions: {fract_1 * fract_2}")
+
 
 sum_mult_fractions()
 
