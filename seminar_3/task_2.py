@@ -11,4 +11,5 @@ def duplicates(my_list: list) -> list:
     res_list = list(result_set)
     return res_list
 
+
 print(duplicates(my_list))

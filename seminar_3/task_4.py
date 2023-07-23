@@ -10,6 +10,7 @@ all_things = {'фонарь': 1473, 'спички': 183, 'бинокль': 1163,
 space_in_bag = 15000  # меряем в граммах.
 things_in_bag = []
 weight_bag = 0
+all_things = dict(sorted(all_things.items(), key=lambda x: x[1], reverse=True))
 for key, val in all_things.items():
     if space_in_bag > val:
         things_in_bag.append(key)
@@ -17,4 +18,5 @@ for key, val in all_things.items():
         weight_bag += val
 print(f"Вещи поместившиеся в рюкзак: {things_in_bag}")
 print(f"Вместимость рюкзака: 15 кг. Вес вещей поместившихся в словарь: {weight_bag / 1000:.3f} кг. ")
+
 

@@ -34,3 +34,5 @@ for i in range(len(list_names)):
             first_set = first_set & dict_friends[list_names[j]]
     things = first_set - temp_set
     print(f"3. Имя друга: {list_names[i]}. Предметы, которые есть у всех остальных, но нет у него: {list(things)} ")
+
+

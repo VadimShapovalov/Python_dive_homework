@@ -1,6 +1,7 @@
 # В большой текстовой строке подсчитать количество встречаемых слов и вернуть 10 самых частых.
 # Не учитывать знаки препинания и регистр символов.
 # За основу возьмите любую статью из википедии или из документации к языку.
+
 import re
 
 text = """
@@ -15,6 +16,9 @@ for i in text.split():
     my_dict[i] = my_dict.get(i, 0) + 1
 
 sorted_list = sorted(my_dict.items(), key=lambda item: item[1], reverse=True)
+
 for i in range(10):
     print(f'{i + 1} слово: "{sorted_list[i][0]}" кол-во употреблений: {sorted_list[i][1]}')
+
+
 
