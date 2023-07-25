@@ -1,6 +1,7 @@
 # Напишите функцию принимающую на вход только ключевые параметры и возвращающую словарь, где ключ — значение
 # переданного аргумента, а значение — имя аргумента. Если ключ не хешируем, используйте его строковое представление.
 
+
 def dictionary_creation(**kwargs) -> dict:
     """function converts values to keys."""
     my_dict = dict()
@@ -13,4 +14,4 @@ def dictionary_creation(**kwargs) -> dict:
     return my_dict
 
 
-print(dictionary_creation(a=1, b=2, c=3, d=False, e=(4, 5), f=[6, 7], g={8, 9}, h='Hello'))
+print(dictionary_creation(a=1, d=False, e=(4, 5), f=[6, 7], g={8, 9}, h='Hello'))

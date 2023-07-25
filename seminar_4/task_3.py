@@ -4,6 +4,13 @@
 
 import datetime
 
+"""
+Реализовал запись всех операций со временем их проведения, текущего состояния счета,
+а также подсчет количества операций в текстовый файл с последующим извлечением 
+информации при перезапуске программы.
+"""
+
+
 def cash_machine():
     """function simulates the operation of an atm. """
     account = 0
@@ -63,6 +70,7 @@ def cash_machine():
                 print("Вы ввели некорректные данные. Пожалуйста, повторите попытку.")
                 continue
 
+
 def refill(operation):
     """function replenishes the bank account."""
     while True:
@@ -90,10 +98,12 @@ def refill(operation):
                 print("Вы ввели некорректные данные. Пожалуйста, повторите попытку.")
                 continue
 
+
 def withdraw(account, operation):
     """the function withdraws money from a bank account."""
     while True:
-        print("Введите сумму, которую хотите снять. За снятие взимается комиссия - 1,5%, но не менее 30 руб. и не более 600 руб.")
+        print("Введите сумму, которую хотите снять."
+              " За снятие взимается комиссия - 1,5%, но не менее 30 руб. и не более 600 руб.")
         print("Если хотите вернуться в главное меню, нажмите 'Y'.")
         entered_data = input().lower()
         if entered_data == 'y':
@@ -125,5 +135,6 @@ def withdraw(account, operation):
             except ValueError:
                 print("Вы ввели некорректные данные, либо сумма не кратна 50 рублям. Пожалуйста, повторите попытку.\n")
                 continue
+
 
 cash_machine()

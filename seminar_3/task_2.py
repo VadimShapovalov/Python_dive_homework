@@ -8,8 +8,7 @@ def duplicates(my_list: list) -> list:
     for i in my_list:
         if my_list.count(i) > 1:
             result_set.add(i)
-    res_list = list(result_set)
-    return res_list
+    return list(result_set)
 
 
 print(duplicates(my_list))
