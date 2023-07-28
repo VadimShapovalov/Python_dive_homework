@@ -1,8 +1,6 @@
 # ✔Напишите функцию, которая принимает на вход строку — абсолютный путь до файла.
 # Функция возвращает кортеж из трёх элементов: путь, имя файла, расширение файла.
 
-text = "C:\\Users\\Vadim\\Downloads\\file.txt"
-
 
 def string_split(text):
     *path, filename = text.split("\\")
@@ -10,4 +8,5 @@ def string_split(text):
     return "\\".join(path), name, extension
 
 
-print(string_split(text))
+line = "C:\\Users\\Vadim\\Downloads\\file.txt"
+print(string_split(line))
