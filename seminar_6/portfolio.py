@@ -17,6 +17,8 @@
 # Вышло:
 # 16410,25
 
+_highest_profit: str
+
 def calculate_portfolio_value(stocks: dict, prices: dict) -> float:
     cost = 0
     for count, price in zip(stocks.values(), prices.values()):
@@ -72,8 +74,8 @@ if __name__=='__main__':
 
     print(calculate_portfolio_value(stocks, prices))
     print(calculate_portfolio_return(initial_value, current_value))
-    print(get_most_profitable_stock(stocks, prices_2))
+    _highest_profit = get_most_profitable_stock(stocks, prices_2)
+    print(_highest_profit)
 
-#
-#
+
 
