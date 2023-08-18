@@ -1,0 +1,1 @@
+from seminar_7.work_with_files.work_with_files import read_and_write_files, renamed_group_files
