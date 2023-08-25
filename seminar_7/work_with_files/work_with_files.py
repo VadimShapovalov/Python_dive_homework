@@ -146,7 +146,7 @@ def create_files(ext: str, directory: str = None, min_len: int = 6,
 # которые не подошли для сортировки.
 
 
-def sort_files(directory: str | Path = 'test_dir'):
+def sort_files(directory: str | Path = 'test_dir_1'):
     chdir(directory)
     print(listdir())
     for file in Path(getcwd()).iterdir():

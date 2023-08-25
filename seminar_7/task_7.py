@@ -10,7 +10,7 @@ from pathlib import Path
 # которые не подошли для сортировки.
 
 
-def sort_files(directory: str | Path = 'test_dir'):
+def sort_files(directory: str | Path = 'test_dir_1'):
     chdir(directory)
     print(listdir())
     for file in Path(getcwd()).iterdir():

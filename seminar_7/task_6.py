@@ -35,4 +35,4 @@ def create_files(ext: str, directory: str = None, min_len: int = 6,
 if __name__ == "__main__":
     EXTINSIONS = ['.pdf', '.csv', '.txt', '.doc']
     create_files(ext=choice(EXTINSIONS),
-    directory='test_dir\\test_test_dir', count_files=5)
+    directory='test_dir_1\\test_test_dir', count_files=5)

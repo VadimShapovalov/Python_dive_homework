@@ -1,0 +1,194 @@
+{
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\file_output.txt": {
+        "name": "file_output.txt",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 125
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\homework.py": {
+        "name": "homework.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 2686
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\hw_f.csv": {
+        "name": "hw_f.csv",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 4122
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\hw_f.json": {
+        "name": "hw_f.json",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 7431
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\hw_f.pkl": {
+        "name": "hw_f.pkl",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 4254
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\output.json": {
+        "name": "output.json",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 255
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\output.pickle": {
+        "name": "output.pickle",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 120
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task5_users.json": {
+        "name": "task5_users.json",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 480
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task5_users.pickle": {
+        "name": "task5_users.pickle",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 203
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task6_users.csv": {
+        "name": "task6_users.csv",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 162
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_1.py": {
+        "name": "task_1.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 974
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_2.py": {
+        "name": "task_2.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 1542
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_3.py": {
+        "name": "task_3.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 912
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_4.py": {
+        "name": "task_4.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 1490
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_5.py": {
+        "name": "task_5.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 685
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_6.py": {
+        "name": "task_6.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 977
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\task_7.py": {
+        "name": "task_7.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 562
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_file.py": {
+        "name": "test_file.py",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 0
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\users.csv": {
+        "name": "users.csv",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 57
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\users.json": {
+        "name": "users.json",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 170
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\users.pickle": {
+        "name": "users.pickle",
+        "parent": "seminar_8",
+        "type": "file",
+        "size": 100
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8": {
+        "name": "seminar_8",
+        "parent": "Python_dive_homework",
+        "type": "dir",
+        "size": 27307
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_1\\file_output.txt": {
+        "name": "file_output.txt",
+        "parent": "test_dir_1",
+        "type": "file",
+        "size": 125
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_1\\homework.py": {
+        "name": "homework.py",
+        "parent": "test_dir_1",
+        "type": "file",
+        "size": 2686
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_1\\output.json": {
+        "name": "output.json",
+        "parent": "test_dir_1",
+        "type": "file",
+        "size": 255
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_1\\output.pickle": {
+        "name": "output.pickle",
+        "parent": "test_dir_1",
+        "type": "file",
+        "size": 120
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_1": {
+        "name": "test_dir_1",
+        "parent": "seminar_8",
+        "type": "dir",
+        "size": 3186
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_2\\task5_users.json": {
+        "name": "task5_users.json",
+        "parent": "test_dir_2",
+        "type": "file",
+        "size": 480
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_2\\task5_users.pickle": {
+        "name": "task5_users.pickle",
+        "parent": "test_dir_2",
+        "type": "file",
+        "size": 203
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_2\\task6_users.csv": {
+        "name": "task6_users.csv",
+        "parent": "test_dir_2",
+        "type": "file",
+        "size": 162
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_dir_2": {
+        "name": "test_dir_2",
+        "parent": "seminar_8",
+        "type": "dir",
+        "size": 845
+    },
+    "C:\\Users\\Vadim\\Desktop\\Dive_into_Python\\Projects\\Python_dive_homework\\seminar_8\\test_empty_dir": {
+        "name": "test_empty_dir",
+        "parent": "seminar_8",
+        "type": "dir",
+        "size": 0
+    }
+}
