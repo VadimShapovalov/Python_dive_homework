@@ -152,6 +152,7 @@ if __name__ == '__main__':
     vadim = Student('Shapovalov', 'Vadim', 'Vladimirovich')
     # vadim.average_grade()
     vadim.average_subject('математика')
+    vadim.average_subject('история')
     vadim.average_grade()
     # vadim.enter_test()
     ivan = Student('Ivanov', 'Ivan', 'Ivanich')
